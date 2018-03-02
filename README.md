@@ -2,17 +2,16 @@
 
 This is completly based on deep learning nueral network and implented using Tensorflow framework. Here you will get how to implement fastly and you can find code at github and uses is demonstrated at YouTube.
 
-Installation:
+Installation Python Libraries:
 
-Python Libraries:
 tensorflow (1.4.0)
 scipy (0.17.0)
 scikit-learn (0.19.1)
 Opencv (2.4.9.1)
 
-For ipmlementationand run this code follow this link:
+For ipmlementation and run this code follow this link 
 
-Usage
+Usage:
 
 Well this facenet is defined and implementation of facenet paper published in Arxiv (FaceNet: A Unified Embedding for Face Recognition and Clustering). And also contain the idea of two paper named as "A Discriminative Feature Learning Approach for Deep Face Recognition" and "Deep Face Recognition". For deep understanding about its concept you can follow upper paper. One also main part is that for genearating your own model you can follow this link Face Recognition using Tensorflow. David Sandberg (https://github.com/davidsandberg/facenet) have nicely implemnted you can also find it on Github for complete code and uses. Also some good working is done by "Ishwarsawale https://github.com/ishwarsawale"
 
